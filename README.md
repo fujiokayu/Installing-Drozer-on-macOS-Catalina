@@ -11,6 +11,7 @@ I hope this document helps someone.
 
 - MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
 - macOS Catalina version:10.15.2（19C57）
+- Python 2.7.16
 
 ## Build & Install
 
