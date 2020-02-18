@@ -21,7 +21,7 @@ I hope this document helps someone.
     - python2 is required. check your installed version.
 1. `pipenv --python 2.x.xx`
 1. `pipenv shell`
-1. edit setup.py with reference to [this comment](https://github.com/FSecureLABS/drozer/issues/357#issuecomment-546886215)
+1. edit setup.py with refer to [this comment](https://github.com/FSecureLABS/drozer/issues/357#issuecomment-546886215)
 1. `python setup.py bdist_wheel`
     - bear up so much warnings
 1. `pipenv install dist/drozer-2.4.3-py2-none-any.whl`
