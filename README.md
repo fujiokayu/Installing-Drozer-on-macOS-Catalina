@@ -20,6 +20,7 @@ I hope this document helps someone.
 1. `python2 --version`
     - python2 is required. check your installed version.
 1. `pipenv --python 2.x.xx`
+    - replace `2.x.xx` to your python2 version.
 1. `pipenv shell`
 1. edit setup.py with refer to [this comment](https://github.com/FSecureLABS/drozer/issues/357#issuecomment-546886215)
 1. `python setup.py bdist_wheel`
