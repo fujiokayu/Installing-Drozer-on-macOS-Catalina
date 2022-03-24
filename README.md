@@ -1,3 +1,13 @@
+## note
+
+As stated at [the beginning of the README](https://github.com/FSecureLABS/drozer#note), Drozer is no longer maintained.
+Therefore, this page is also not maintained.
+
+The OWASP Mobile Security Testing Guide has also removed all references to Drozer as far as possible in [version 1.3.0](https://github.com/OWASP/owasp-mstg/discussions/2017) and replaced the Drozer verification procedure with a procedure using adb.
+
+If you still need to use Drozer, you should now be able to use the Docker version of Drozer.
+Please refer to [this page](https://github.com/FSecureLABS/drozer/tree/develop/docker) for more information.
+
 # How to install Drozer on macOS Catalina (By using pipenv)
 
 [drozer](https://github.com/FSecureLABS/drozer) is the leading security testing framework for Android.
